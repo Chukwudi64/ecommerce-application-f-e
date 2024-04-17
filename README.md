@@ -55,7 +55,7 @@ To run this project locally, follow these steps:
 
 ## Live Demo
 
-You can access the live demo of this project at (Put my own url here).
+You can access the live demo of this project at [E-Commerce Website Demo](https://ecommerce-application-och.netlify.app/).
 
 ## Project Screenshots
 
